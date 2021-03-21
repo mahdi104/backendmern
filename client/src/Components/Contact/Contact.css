@@ -1,0 +1,8 @@
+.Card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 30%;
+}
